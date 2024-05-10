@@ -13,9 +13,8 @@
         <license>MIT</license>
     </meta>
     <setup>
-        <!-- The URL which will be used for the registration -->
         <registrationUrl>https://www.test.reqser.com/app/shopware/register</registrationUrl>
-        <!-- Dev only, the secret that is used to sign the registration request -->
+        <!-- Private APP so the secret has to stay here -->
         <secret>ZFikfxdlxTNCFwzlCFiSrpe1hhR7YS18yIPRsLp8C5xnQk78urr1AZ11ABcp</secret>
     </setup>
     <permissions>
