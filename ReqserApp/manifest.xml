@@ -293,9 +293,9 @@
         <permission>system:cache:info</permission>
     </permissions>
     <webhooks>
-        <webhook name="appActivated" url="https://test.reqser.com/app/shopware/lifecycle/activate" event="app.activated"/>
-        <webhook name="appDeactivated" url="https://test.reqser.com/app/shopware/lifecycle/deactivate" event="app.deactivated"/>
-        <webhook name="appDeleted" url="https://test.reqser.com/app/shopware/lifecycle/delete" event="app.deleted"/>
-        <webhook name="productWritten" url="https://test.reqser.com/app/shopware/webhook" event="product.written"/>
+        <webhook name="appActivated" url="https://www.test.reqser.com/app/shopware/lifecycle/activate" event="app.activated"/>
+        <webhook name="appDeactivated" url="https://www.test.reqser.com/app/shopware/lifecycle/deactivate" event="app.deactivated"/>
+        <webhook name="appDeleted" url="https://www.test.reqser.com/app/shopware/lifecycle/delete" event="app.deleted"/>
+        <webhook name="productWritten" url="https://www.test.reqser.com/app/shopware/webhook" event="product.written"/>
     </webhooks>
 </manifest>
