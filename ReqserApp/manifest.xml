@@ -24,6 +24,7 @@
         <read>snippet</read>
         <create>snippet</create>
         <update>snippet</update>
+        <create>notification</create>
         <!-- All Tables with _translations ans their parents necessary to translate into a new langauge -->
         <read>app_action_button</read>
         <create>app_action_button</create>
@@ -297,5 +298,7 @@
         <webhook name="appDeactivated" url="https://www.test.reqser.com/app/shopware/lifecycle/deactivate" event="app.deactivated"/>
         <webhook name="appDeleted" url="https://www.test.reqser.com/app/shopware/lifecycle/delete" event="app.deleted"/>
         <webhook name="productWritten" url="https://www.test.reqser.com/app/shopware/webhook" event="product.written"/>
+        <webhook name="categoryWritten" url="https://www.test.reqser.com/app/shopware/webhook" event="category.written"/>
+        <webhook name="product_manufacturerWritten" url="https://www.test.reqser.com/app/shopware/webhook" event="product_manufacturer.written"/>
     </webhooks>
 </manifest>
