@@ -13,7 +13,7 @@
         <license>MIT</license>
     </meta>
     <setup>
-        <registrationUrl>https://www.test.reqser.com/app/shopware/register</registrationUrl>
+        <registrationUrl>https://www.reqser.com/app/shopware/register</registrationUrl>
         <!-- Private APP so the secret has to stay here -->
         <secret>ZFikfxdlxTNCFwzlCFiSrpe1hhR7YS18yIPRsLp8C5xnQk78urr1AZ11ABcp</secret>
     </setup>
