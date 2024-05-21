@@ -9,7 +9,7 @@
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
         <version>1.0.0</version>
-        <icon>Resources/public/icon.png</icon>
+        <icon>icon.png</icon>
         <license>MIT</license>
     </meta>
     <setup>
