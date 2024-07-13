@@ -19,11 +19,20 @@
     </setup>
     <permissions>
         <read>acl_role</read>
+        <!-- Necessary to add new Languages via Reqser -->
         <read>sales_channel_domain</read>
+        <create>sales_channel_domain</create>
+        <update>sales_channel_domain</update>
         <read>language</read>
+        <create>language</create>
+        <update>language</update>
         <read>snippet</read>
         <create>snippet</create>
         <update>snippet</update>
+        <read>snippet_set</read>
+        <create>snippet_set</create>
+        <update>snippet_set</update>
+        <!-- Necessary to send notifications -->
         <create>notification</create>
         <!-- All Tables with _translations ans their parents necessary to translate into a new langauge -->
         <read>app_action_button</read>
