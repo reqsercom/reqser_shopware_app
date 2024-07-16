@@ -32,6 +32,9 @@
         <update>snippet</update>
         <read>snippet_set</read>
         <read>sales_channel_currency</read>
+        <read>sales_channel_language</read>
+        <create>sales_channel_language</create>
+        <update>sales_channel_language</update>
 
         <!-- Necessary to send notifications -->
         <create>notification</create>
