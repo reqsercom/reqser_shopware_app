@@ -23,18 +23,16 @@
         <!-- Necessary to add new Languages via Reqser -->
         <read>sales_channel_domain</read>
         <create>sales_channel_domain</create>
-        <update>sales_channel_domain</update>
         <read>language</read>
         <create>language</create>
-        <update>language</update>
         <read>snippet</read>
         <create>snippet</create>
         <update>snippet</update>
         <read>snippet_set</read>
         <read>sales_channel_currency</read>
+        <create>sales_channel_currency</create>
         <read>sales_channel_language</read>
         <create>sales_channel_language</create>
-        <update>sales_channel_language</update>
 
         <!-- Necessary to send notifications -->
         <create>notification</create>
