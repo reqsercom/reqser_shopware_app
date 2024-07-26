@@ -3,8 +3,8 @@
     <meta>
         <name>ReqserApp</name>
         <label>Reqser.com App</label>
-        <label lang="de-DE">Reqser.com Verbindungs App</label>
-        <description>Reqser.com Connection App</description>
+        <label lang="de-DE">AI Reqser.com Verbindungs App</label>
+        <description>AI Reqser.com Connection App</description>
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
@@ -36,6 +36,9 @@
 
         <!-- Necessary to send notifications -->
         <create>notification</create>
+
+        <!-- Necessary to check if Reqser Plugin is installed and activated -->
+        <read>plugin</read>
         
         <!-- All Tables with _translations ans their parents necessary to translate into a new langauge -->
         <read>app_action_button</read>
