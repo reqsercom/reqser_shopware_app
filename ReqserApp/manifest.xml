@@ -10,7 +10,7 @@
         <copyright>(c) by Reqser.com AG</copyright>
         <version>1.0.0</version>
         <icon>icon.png</icon>
-        <license>MIT</license>
+        <license>proprietary</license>
     </meta>
     <setup>
         <registrationUrl>https://www.reqser.com/app/shopware/register</registrationUrl>
@@ -39,6 +39,7 @@
 
         <!-- Necessary to check if Reqser Plugin is installed and activated -->
         <read>plugin</read>
+        <read>scheduled_task</read>
         
         <!-- All Tables with _translations ans their parents necessary to translate into a new langauge -->
         <read>app_action_button</read>
