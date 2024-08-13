@@ -8,7 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -38,6 +38,7 @@
         <create>notification</create>
 
         <!-- Necessary to check if Reqser Plugin is installed and activated -->
+        <read>app</read>
         <read>plugin</read>
         <read>scheduled_task</read>
 
