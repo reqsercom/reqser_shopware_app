@@ -8,7 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -40,6 +40,9 @@
         <!-- Necessary to check if Reqser Plugin is installed and activated -->
         <read>plugin</read>
         <read>scheduled_task</read>
+
+        <!-- Necessary to show the product images -->
+        <read>product_media</read>
         
         <!-- All Tables with _translations ans their parents necessary to translate into a new langauge -->
         <read>app_action_button</read>
