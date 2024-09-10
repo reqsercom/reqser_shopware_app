@@ -315,14 +315,17 @@
         <permission>system:cache:info</permission>
 
         <!-- JorisK for SWAG CMS Extension -->
-        <read>swag_cms_extensions_form</read>
-        <create>swag_cms_extensions_form</create>
-        <update>swag_cms_extensions_form</update>
         <read>swag_cms_extensions_form_group</read>
         <create>swag_cms_extensions_form_group</create>
         <update>swag_cms_extensions_form_group</update>
 
         <!-- PatrickK Needed and tested for SWAG CMS Extension -->
+        <read>swag_cms_extensions_form</read>
+        <create>swag_cms_extensions_form</create>
+        <update>swag_cms_extensions_form</update>
+        <read>swag_cms_extensions_form_translation</read>
+        <create>swag_cms_extensions_form_translation</create>
+        <update>swag_cms_extensions_form_translation</update>
         <read>swag_cms_extensions_form_group_field</read>
         <create>swag_cms_extensions_form_group_field</create>
         <update>swag_cms_extensions_form_group_field</update>
