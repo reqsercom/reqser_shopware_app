@@ -8,7 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.0.6</version>
+        <version>1.0.7</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
