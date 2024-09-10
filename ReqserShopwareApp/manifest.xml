@@ -8,7 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.0.5</version>
+        <version>1.0.6</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -324,6 +324,9 @@
         <read>swag_cms_extensions_form_group_field</read>
         <create>swag_cms_extensions_form_group_field</create>
         <update>swag_cms_extensions_form_group_field</update>
+        <read>swag_cms_extensions_form_group_field_translation</read>
+        <create>swag_cms_extensions_form_group_field_translation</create>
+        <update>swag_cms_extensions_form_group_field_translation</update>
 
 
     </permissions>
