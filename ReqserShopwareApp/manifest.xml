@@ -321,6 +321,8 @@
         <read>swag_cms_extensions_form_group</read>
         <create>swag_cms_extensions_form_group</create>
         <update>swag_cms_extensions_form_group</update>
+
+        <!-- PatrickK Needed and tested for SWAG CMS Extension -->
         <read>swag_cms_extensions_form_group_field</read>
         <create>swag_cms_extensions_form_group_field</create>
         <update>swag_cms_extensions_form_group_field</update>
