@@ -8,7 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.0.3</version>
+        <version>1.0.5</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -286,6 +286,7 @@
         <read>state_machine_translation</read>
         <create>state_machine_translation</create>
         <update>state_machine_translation</update>
+
         <read>tax_provider</read>
         <create>tax_provider</create>
         <update>tax_provider</update>
@@ -312,6 +313,19 @@
         <update>unit_translation</update>
         <!-- Since version 6.4.12.0 your app can request additional non-CRUD privileges-->
         <permission>system:cache:info</permission>
+
+        <!-- JorisK for SWAG CMS Extension -->
+        <read>swag_cms_extensions_form</read>
+        <create>swag_cms_extensions_form</create>
+        <update>swag_cms_extensions_form</update>
+        <read>swag_cms_extensions_form_group</read>
+        <create>swag_cms_extensions_form_group</create>
+        <update>swag_cms_extensions_form_group</update>
+        <read>swag_cms_extensions_form_group_field</read>
+        <create>swag_cms_extensions_form_group_field</create>
+        <update>swag_cms_extensions_form_group_field</update>
+
+
     </permissions>
     <webhooks>
         <webhook name="appActivated" url="https://www.reqser.com/app/shopware/lifecycle/activate" event="app.activated"/>
