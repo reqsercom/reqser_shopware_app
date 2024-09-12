@@ -88,6 +88,8 @@
         <read>cms_page_translation</read>
         <create>cms_page_translation</create>
         <update>cms_page_translation</update>
+        <read>cms_block</read>
+        <read>cms_section</read>
         <read>cms_slot</read>
         <create>cms_slot</create>
         <update>cms_slot</update>
@@ -342,7 +344,5 @@
         <webhook name="appDeleted" url="https://www.reqser.com/app/shopware/lifecycle/delete" event="app.deleted"/>
         <webhook name="productWritten" url="https://www.reqser.com/app/shopware/webhook" event="product.written"/>
         <webhook name="categoryWritten" url="https://www.reqser.com/app/shopware/webhook" event="category.written"/>
-        <!-- <webhook name="saleschannelWritten" url="https://www.reqser.com/app/shopware/webhook" event="sales_channel.written"/>
-        <webhook name="sales_channel_domainWritten" url="https://www.reqser.com/app/shopware/webhook" event="sales_channel_domain.written"/> -->
     </webhooks>
 </manifest>
