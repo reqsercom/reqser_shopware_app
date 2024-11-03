@@ -343,6 +343,9 @@
         <update>swag_language_pack_language</update>
 
         <!-- Not Shopware Moduls with Translation Table, if the table does not exist the permission has no influence -->
+        <read>mega_listing_disturber</read>
+        <create>mega_listing_disturber</create>
+        <update>mega_listing_disturber</update>
         <read>mega_listing_disturber_translation</read>
         <create>mega_listing_disturber_translation</create>
         <update>mega_listing_disturber_translation</update>
