@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/trunk/src/Core/Framework/App/Manifest/Schema/manifest-2.0.xsd">
     <meta>
-        <name>ReqserApp</name>
-        <label>Reqser.com App</label>
-        <label lang="de-DE">AI Reqser.com Verbindungs App</label>
+        <name>TestReqserApp</name>
+        <label>Reqser.com App Test</label>
+        <label lang="de-DE">AI Reqser.com Verbindungs App Test</label>
         <description>AI Reqser.com Connection App</description>
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
@@ -13,7 +13,7 @@
         <license>proprietary</license>
     </meta>
     <setup>
-        <registrationUrl>https://www.reqser.com/app/shopware/register</registrationUrl>
+        <registrationUrl>https://www.test.reqser.com/app/shopware/register</registrationUrl>
         <!-- Private APP so the secret has to stay here -->
         <secret>ZFikfxdlxTNCFwzlCFiSrpe1hhR7YS18yIPRsLp8C5xnQk78urr1AZ11ABcp</secret>
     </setup>
@@ -353,10 +353,10 @@
 
     </permissions>
     <webhooks>
-        <webhook name="appActivated" url="https://www.reqser.com/app/shopware/lifecycle/activate" event="app.activated"/>
-        <webhook name="appDeactivated" url="https://www.reqser.com/app/shopware/lifecycle/deactivate" event="app.deactivated"/>
-        <webhook name="appDeleted" url="https://www.reqser.com/app/shopware/lifecycle/delete" event="app.deleted"/>
-        <webhook name="productWritten" url="https://www.reqser.com/app/shopware/webhook" event="product.written"/>
-        <webhook name="categoryWritten" url="https://www.reqser.com/app/shopware/webhook" event="category.written"/>
+        <webhook name="appActivated" url="https://www.test.reqser.com/app/shopware/lifecycle/activate" event="app.activated"/>
+        <webhook name="appDeactivated" url="https://www.test.reqser.com/app/shopware/lifecycle/deactivate" event="app.deactivated"/>
+        <webhook name="appDeleted" url="https://www.test.reqser.com/app/shopware/lifecycle/delete" event="app.deleted"/>
+        <webhook name="productWritten" url="https://www.test.reqser.com/app/shopware/webhook" event="product.written"/>
+        <webhook name="categoryWritten" url="https://www.test.reqser.com/app/shopware/webhook" event="category.written"/>
     </webhooks>
 </manifest>
