@@ -342,14 +342,25 @@
         <read>swag_language_pack_language</read>
         <update>swag_language_pack_language</update>
 
-        <!-- Not Shopware Moduls with Translation Table, if the table does not exist the permission has no influence -->
+        <!-- Non Shopware modules with translation table. If the table does not exist, the permission has no effect. -->
         <read>mega_listing_disturber</read>
         <create>mega_listing_disturber</create>
         <update>mega_listing_disturber</update>
         <read>mega_listing_disturber_translation</read>
         <create>mega_listing_disturber_translation</create>
         <update>mega_listing_disturber_translation</update>
-
+        <read>dvsn_return_shipment_checklist_translation</read>
+        <create>dvsn_return_shipment_checklist_translation</create>
+        <update>dvsn_return_shipment_checklist_translation</update>        
+        <read>dvsn_return_shipment_procedure_translation</read>
+        <create>dvsn_return_shipment_procedure_translation</create>
+        <update>dvsn_return_shipment_procedure_translation</update>
+        <read>dvsn_return_shipment_reason_translation</read>
+        <create>dvsn_return_shipment_reason_translation</create>
+        <update>dvsn_return_shipment_reason_translation</update>        
+        <read>dvsn_return_shipment_status_translation</read>
+        <create>dvsn_return_shipment_status_translation</create>
+        <update>dvsn_return_shipment_status_translation</update>
 
     </permissions>
     <webhooks>
