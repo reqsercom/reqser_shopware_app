@@ -8,7 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.1.2</version>
+        <version>1.1.3</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -34,9 +34,9 @@
         <create>sales_channel_currency</create>
         <read>sales_channel_language</read>
         <create>sales_channel_language</create>
-        <create>seo_url</create>
         <read>seo_url</read>
         <create>seo_url</create>
+        <update>seo_url</update>
 
         <!-- Necessary to send notifications -->
         <create>notification</create>
@@ -342,6 +342,25 @@
         <read>swag_language_pack_language</read>
         <update>swag_language_pack_language</update>
 
+        <!-- Non Shopware modules with translation table. If the table does not exist, the permission has no effect. -->
+        <read>mega_listing_disturber</read>
+        <create>mega_listing_disturber</create>
+        <update>mega_listing_disturber</update>
+        <read>mega_listing_disturber_translation</read>
+        <create>mega_listing_disturber_translation</create>
+        <update>mega_listing_disturber_translation</update>
+        <read>dvsn_return_shipment_checklist_translation</read>
+        <create>dvsn_return_shipment_checklist_translation</create>
+        <update>dvsn_return_shipment_checklist_translation</update>        
+        <read>dvsn_return_shipment_procedure_translation</read>
+        <create>dvsn_return_shipment_procedure_translation</create>
+        <update>dvsn_return_shipment_procedure_translation</update>
+        <read>dvsn_return_shipment_reason_translation</read>
+        <create>dvsn_return_shipment_reason_translation</create>
+        <update>dvsn_return_shipment_reason_translation</update>        
+        <read>dvsn_return_shipment_status_translation</read>
+        <create>dvsn_return_shipment_status_translation</create>
+        <update>dvsn_return_shipment_status_translation</update>
 
     </permissions>
     <webhooks>
