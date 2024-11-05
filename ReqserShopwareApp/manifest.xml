@@ -349,15 +349,27 @@
         <read>mega_listing_disturber_translation</read>
         <create>mega_listing_disturber_translation</create>
         <update>mega_listing_disturber_translation</update>
+        <read>dvsn_return_shipment_checklist</read>
+        <create>dvsn_return_shipment_checklist</create>
+        <update>dvsn_return_shipment_checklist</update>   
         <read>dvsn_return_shipment_checklist_translation</read>
         <create>dvsn_return_shipment_checklist_translation</create>
-        <update>dvsn_return_shipment_checklist_translation</update>        
+        <update>dvsn_return_shipment_checklist_translation</update>     
+        <read>dvsn_return_shipment_procedure</read>
+        <create>dvsn_return_shipment_procedure</create>
+        <update>dvsn_return_shipment_procedure</update>
         <read>dvsn_return_shipment_procedure_translation</read>
         <create>dvsn_return_shipment_procedure_translation</create>
         <update>dvsn_return_shipment_procedure_translation</update>
+        <read>dvsn_return_shipment_reason</read>
+        <create>dvsn_return_shipment_reason</create>
+        <update>dvsn_return_shipment_reason</update>   
         <read>dvsn_return_shipment_reason_translation</read>
         <create>dvsn_return_shipment_reason_translation</create>
-        <update>dvsn_return_shipment_reason_translation</update>        
+        <update>dvsn_return_shipment_reason_translation</update>
+        <read>dvsn_return_shipment_status</read>
+        <create>dvsn_return_shipment_status</create>
+        <update>dvsn_return_shipment_status</update>
         <read>dvsn_return_shipment_status_translation</read>
         <create>dvsn_return_shipment_status_translation</create>
         <update>dvsn_return_shipment_status_translation</update>
