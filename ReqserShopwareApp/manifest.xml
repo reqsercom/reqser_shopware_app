@@ -380,11 +380,6 @@
         <create>blur_elysium_slides_translation</create>
         <update>blur_elysium_slides_translation</update>
 
-        
-        <read>swkweb_hide_soldout_products_product_availability</read>
-        <create>swkweb_hide_soldout_products_product_availability</create>
-        <update>swkweb_hide_soldout_products_product_availability</update>
-
     </permissions>
     <webhooks>
         <webhook name="appActivated" url="https://www.reqser.com/app/shopware/lifecycle/activate" event="app.activated"/>
