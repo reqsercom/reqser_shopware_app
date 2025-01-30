@@ -379,6 +379,12 @@
         <read>blur_elysium_slides_translation</read>
         <create>blur_elysium_slides_translation</create>
         <update>blur_elysium_slides_translation</update>
+        <read>s_plugin_netzp_blog</read>
+        <create>s_plugin_netzp_blog</create>
+        <update>s_plugin_netzp_blog</update>
+        <read>s_plugin_netzp_blog_translation</read>
+        <create>s_plugin_netzp_blog_translation</create>
+        <update>s_plugin_netzp_blog_translation</update>
 
     </permissions>
     <webhooks>
