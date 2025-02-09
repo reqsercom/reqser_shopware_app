@@ -8,7 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.1.4</version>
+        <version>1.1.5</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -385,6 +385,18 @@
         <read>s_plugin_netzp_blog_translation</read>
         <create>s_plugin_netzp_blog_translation</create>
         <update>s_plugin_netzp_blog_translation</update>
+        <read>s_plugin_netzp_blog_item</read>
+        <create>s_plugin_netzp_blog_item</create>
+        <update>s_plugin_netzp_blog_item</update>
+        <read>s_plugin_netzp_blog_item_translation</read>
+        <create>s_plugin_netzp_blog_item_translation</create>
+        <update>s_plugin_netzp_blog_item_translation</update>
+        <read>s_plugin_netzp_blog_category</read>
+        <create>s_plugin_netzp_blog_category</create>
+        <update>s_plugin_netzp_blog_category</update>
+        <read>s_plugin_netzp_blog_category_translation</read>
+        <create>s_plugin_netzp_blog_category_translation</create>
+        <update>s_plugin_netzp_blog_category_translation</update>
 
     </permissions>
     <webhooks>
