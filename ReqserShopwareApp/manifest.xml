@@ -493,6 +493,13 @@
         <read>b2bsellers_property_set_translation</read>
         <create>b2bsellers_property_set_translation</create>
         <update>b2bsellers_property_set_translation</update>
+        <read>moorl_magazine_article</read>
+        <create>moorl_magazine_article</create>
+        <update>moorl_magazine_article</update>
+        <read>moorl_magazine_article_translation</read>
+        <create>moorl_magazine_article_translation</create>
+        <update>moorl_magazine_article_translation</update>
+        
 
     </permissions>
     <webhooks>
