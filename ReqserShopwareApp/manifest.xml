@@ -8,8 +8,7 @@
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.1.5</version>
-        <icon>icon.png</icon>
+        <version>1.1.6</icon>
         <license>proprietary</license>
     </meta>
     <setup>
@@ -499,6 +498,17 @@
         <read>moorl_magazine_article_translation</read>
         <create>moorl_magazine_article_translation</create>
         <update>moorl_magazine_article_translation</update>
+        <read>moorl_magazine_category</read>
+        <create>moorl_magazine_category</create>
+        <update>moorl_magazine_category</update>
+        <read>moorl_magazine_category_translation</read>
+        <create>moorl_magazine_category_translation</create>
+        <update>moorl_magazine_category_translation</update>
+
+
+
+
+
         
 
     </permissions>
