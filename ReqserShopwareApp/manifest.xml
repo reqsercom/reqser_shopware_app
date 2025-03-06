@@ -51,7 +51,7 @@
         <!-- Necessary to show the product images -->
         <read>product_media</read>
         
-        <!-- All Tables with _translations ans their parents necessary to translate into a new langauge -->
+        <!-- All Tables with _translations and their parent tables are necessary to translate into a new language -->
         <read>app_action_button</read>
         <create>app_action_button</create>
         <update>app_action_button</update>
