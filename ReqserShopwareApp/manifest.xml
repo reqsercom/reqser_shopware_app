@@ -4,8 +4,10 @@
         <name>ReqserApp</name>
         <label>Reqser.com App</label>
         <label lang="de-DE">AI Reqser.com Verbindungs App</label>
+        <label lang="de-CH">AI Reqser.com Verbindungs App</label>
         <description>AI Reqser.com Connection App</description>
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
+        <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
         <version>1.1.6</version>
