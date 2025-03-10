@@ -423,60 +423,6 @@
         <read>b2bsellers_employee_role_translation</read>
         <create>b2bsellers_employee_role_translation</create>
         <update>b2bsellers_employee_role_translation</update>
-        <read>b2bsellers_event_certification_template</read>
-        <create>b2bsellers_event_certification_template</create>
-        <update>b2bsellers_event_certification_template</update>
-        <read>b2bsellers_event_certification_template_translation</read>
-        <create>b2bsellers_event_certification_template_translation</create>
-        <update>b2bsellers_event_certification_template_translation</update>
-        <read>b2bsellers_event_certification</read>
-        <create>b2bsellers_event_certification</create>
-        <update>b2bsellers_event_certification</update>
-        <read>b2bsellers_event_certification_translation</read>
-        <create>b2bsellers_event_certification_translation</create>
-        <update>b2bsellers_event_certification_translation</update>
-        <read>b2bsellers_event_document_type</read>
-        <create>b2bsellers_event_document_type</create>
-        <update>b2bsellers_event_document_type</update>
-        <read>b2bsellers_event_document_type_translation</read>
-        <create>b2bsellers_event_document_type_translation</create>
-        <update>b2bsellers_event_document_type_translation</update>
-        <read>b2bsellers_event_format</read>
-        <create>b2bsellers_event_format</create>
-        <update>b2bsellers_event_format</update>
-        <read>b2bsellers_event_format_translation</read>
-        <create>b2bsellers_event_format_translation</create>
-        <update>b2bsellers_event_format_translation</update>
-        <read>b2bsellers_event_level</read>
-        <create>b2bsellers_event_level</create>
-        <update>b2bsellers_event_level</update>
-        <read>b2bsellers_event_level_translation</read>
-        <create>b2bsellers_event_level_translation</create>
-        <update>b2bsellers_event_level_translation</update>
-        <read>b2bsellers_event_location</read>
-        <create>b2bsellers_event_location</create>
-        <update>b2bsellers_event_location</update>
-        <read>b2bsellers_event_location_translation</read>
-        <create>b2bsellers_event_location_translation</create>
-        <update>b2bsellers_event_location_translation</update>
-        <read>b2bsellers_event_referent</read>
-        <create>b2bsellers_event_referent</create>
-        <update>b2bsellers_event_referent</update>
-        <read>b2bsellers_event_referent_translation</read>
-        <create>b2bsellers_event_referent_translation</create>
-        <update>b2bsellers_event_referent_translation</update>
-        <read>b2bsellers_event</read>
-        <create>b2bsellers_event</create>
-        <update>b2bsellers_event</update>
-        <read>b2bsellers_event_translation</read>
-        <create>b2bsellers_event_translation</create>
-        <update>b2bsellers_event_translation</update>
-        <read>b2bsellers_offer_status</read>
-        <create>b2bsellers_offer_status</create>
-        <update>b2bsellers_offer_status</update>
-        <read>b2bsellers_offer_status_translation</read>
-        <create>b2bsellers_offer_status_translation</create>
-        <update>b2bsellers_offer_status_translation</update>
         <read>b2bsellers_platform_menu_item</read>
         <create>b2bsellers_platform_menu_item</create>
         <update>b2bsellers_platform_menu_item</update>
