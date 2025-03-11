@@ -4,11 +4,13 @@
         <name>ReqserApp</name>
         <label>Reqser.com App</label>
         <label lang="de-DE">AI Reqser.com Verbindungs App</label>
+        <label lang="de-CH">AI Reqser.com Verbindungs App</label>
         <description>AI Reqser.com Connection App</description>
         <description lang="de-DE">Verbindungs App zu Reqser.com</description>
+        <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.1.4</version>
+        <version>1.1.6</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -49,7 +51,7 @@
         <!-- Necessary to show the product images -->
         <read>product_media</read>
         
-        <!-- All Tables with _translations ans their parents necessary to translate into a new langauge -->
+        <!-- All Tables with _translations and their parent tables are necessary to translate into a new language -->
         <read>app_action_button</read>
         <create>app_action_button</create>
         <update>app_action_button</update>
@@ -385,7 +387,72 @@
         <read>s_plugin_netzp_blog_translation</read>
         <create>s_plugin_netzp_blog_translation</create>
         <update>s_plugin_netzp_blog_translation</update>
-
+        <read>s_plugin_netzp_blog_item</read>
+        <create>s_plugin_netzp_blog_item</create>
+        <update>s_plugin_netzp_blog_item</update>
+        <read>s_plugin_netzp_blog_item_translation</read>
+        <create>s_plugin_netzp_blog_item_translation</create>
+        <update>s_plugin_netzp_blog_item_translation</update>
+        <read>s_plugin_netzp_blog_category</read>
+        <create>s_plugin_netzp_blog_category</create>
+        <update>s_plugin_netzp_blog_category</update>
+        <read>s_plugin_netzp_blog_category_translation</read>
+        <create>s_plugin_netzp_blog_category_translation</create>
+        <update>s_plugin_netzp_blog_category_translation</update>
+        <read>b2bsellers_customer_activity_type</read>
+        <create>b2bsellers_customer_activity_type</create>
+        <update>b2bsellers_customer_activity_type</update>
+        <read>b2bsellers_customer_activity_type_translation</read>
+        <create>b2bsellers_customer_activity_type_translation</create>
+        <update>b2bsellers_customer_activity_type_translation</update>
+        <read>b2bsellers_employee_permission_group</read>
+        <create>b2bsellers_employee_permission_group</create>
+        <update>b2bsellers_employee_permission_group</update>
+        <read>b2bsellers_employee_permission_group_translation</read>
+        <create>b2bsellers_employee_permission_group_translation</create>
+        <update>b2bsellers_employee_permission_group_translation</update>
+        <read>b2bsellers_employee_permission</read>
+        <create>b2bsellers_employee_permission</create>
+        <update>b2bsellers_employee_permission</update>
+        <read>b2bsellers_employee_permission_translation</read>
+        <create>b2bsellers_employee_permission_translation</create>
+        <update>b2bsellers_employee_permission_translation</update>
+        <read>b2bsellers_employee_role</read>
+        <create>b2bsellers_employee_role</create>
+        <update>b2bsellers_employee_role</update>
+        <read>b2bsellers_employee_role_translation</read>
+        <create>b2bsellers_employee_role_translation</create>
+        <update>b2bsellers_employee_role_translation</update>
+        <read>b2bsellers_platform_menu_item</read>
+        <create>b2bsellers_platform_menu_item</create>
+        <update>b2bsellers_platform_menu_item</update>
+        <read>b2bsellers_platform_menu_item_translation</read>
+        <create>b2bsellers_platform_menu_item_translation</create>
+        <update>b2bsellers_platform_menu_item_translation</update>
+        <read>b2bsellers_product_list_type</read>
+        <create>b2bsellers_product_list_type</create>
+        <update>b2bsellers_product_list_type</update>
+        <read>b2bsellers_product_list_type_translation</read>
+        <create>b2bsellers_product_list_type_translation</create>
+        <update>b2bsellers_product_list_type_translation</update>
+        <read>b2bsellers_property_set</read>
+        <create>b2bsellers_property_set</create>
+        <update>b2bsellers_property_set</update>
+        <read>b2bsellers_property_set_translation</read>
+        <create>b2bsellers_property_set_translation</create>
+        <update>b2bsellers_property_set_translation</update>
+        <read>moorl_magazine_article</read>
+        <create>moorl_magazine_article</create>
+        <update>moorl_magazine_article</update>
+        <read>moorl_magazine_article_translation</read>
+        <create>moorl_magazine_article_translation</create>
+        <update>moorl_magazine_article_translation</update>
+        <read>moorl_magazine_category</read>
+        <create>moorl_magazine_category</create>
+        <update>moorl_magazine_category</update>
+        <read>moorl_magazine_category_translation</read>
+        <create>moorl_magazine_category_translation</create>
+        <update>moorl_magazine_category_translation</update>
     </permissions>
     <webhooks>
         <webhook name="appActivated" url="https://www.reqser.com/app/shopware/lifecycle/activate" event="app.activated"/>
