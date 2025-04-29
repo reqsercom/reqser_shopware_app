@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.1</version>
+        <version>1.2.2</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -454,6 +454,60 @@
         <read>cbax_lexicon_entry_translation</read>
         <create>cbax_lexicon_entry_translation</create>
         <update>cbax_lexicon_entry_translation</update>
+        <read>acris_cookie_group</read>
+        <create>acris_cookie_group</create>
+        <update>acris_cookie_group</update>
+        <read>acris_cookie_group_translation</read>
+        <create>acris_cookie_group_translation</create>
+        <update>acris_cookie_group_translation</update>
+        <read>acris_cookie</read>
+        <create>acris_cookie</create>
+        <update>acris_cookie</update>
+        <read>acris_cookie_translation</read>
+        <create>acris_cookie_translation</create>
+        <update>acris_cookie_translation</update>
+        <read>acris_download_tab</read>
+        <create>acris_download_tab</create>
+        <update>acris_download_tab</update>
+        <read>acris_download_tab_translation</read>
+        <create>acris_download_tab_translation</create>
+        <update>acris_download_tab_translation</update>
+        <read>acris_product_download</read>
+        <create>acris_product_download</create>
+        <update>acris_product_download</update>
+        <read>acris_product_download_translation</read>
+        <create>acris_product_download_translation</create>
+        <update>acris_product_download_translation</update>
+        <read>acris_product_video</read>
+        <create>acris_product_video</create>
+        <update>acris_product_video</update>
+        <read>acris_product_video_translation</read>
+        <create>acris_product_video_translation</create>
+        <update>acris_product_video_translation</update>
+        <read>c108_adventskalender</read>
+        <create>c108_adventskalender</create>
+        <update>c108_adventskalender</update>
+        <read>c108_adventskalender_translation</read>
+        <create>c108_adventskalender_translation</create>
+        <update>c108_adventskalender_translation</update>
+        <read>lenz_platform_clp</read>
+        <create>lenz_platform_clp</create>
+        <update>lenz_platform_clp</update>
+        <read>lenz_platform_clp_translation</read>
+        <create>lenz_platform_clp_translation</create>
+        <update>lenz_platform_clp_translation</update>
+        <read>neti_easy_coupon_product</read>
+        <create>neti_easy_coupon_product</create>
+        <update>neti_easy_coupon_product</update>
+        <read>neti_easy_coupon_product_translation</read>
+        <create>neti_easy_coupon_product_translation</create>
+        <update>neti_easy_coupon_product_translation</update>
+        <read>neti_easy_coupon</read>
+        <create>neti_easy_coupon</create>
+        <update>neti_easy_coupon</update>
+        <read>neti_easy_coupon_translation</read>
+        <create>neti_easy_coupon_translation</create>
+        <update>neti_easy_coupon_translation</update>
         
     </permissions>
     <webhooks>
