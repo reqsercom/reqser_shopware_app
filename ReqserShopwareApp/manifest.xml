@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.2</version>
+        <version>1.2.3</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -508,6 +508,12 @@
         <read>neti_easy_coupon_translation</read>
         <create>neti_easy_coupon_translation</create>
         <update>neti_easy_coupon_translation</update>
+        <read>moorl_magazine_category</read>
+        <create>moorl_magazine_category</create>
+        <update>moorl_magazine_category</update>
+        <read>moorl_magazine_category_translation</read>
+        <create>moorl_magazine_category_translation</create>
+        <update>moorl_magazine_category_translation</update>
         
     </permissions>
     <webhooks>
