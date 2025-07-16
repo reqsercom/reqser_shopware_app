@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.3</version>
+        <version>1.2.4</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -322,6 +322,11 @@
         <update>unit_translation</update>
         <!-- Since version 6.4.12.0 your app can request additional non-CRUD privileges-->
         <permission>system:cache:info</permission>
+
+        <!-- Optional to also Translate Reviews -->
+        <read>product_review</read>
+        <create>product_review</create>
+        <update>product_review</update>
 
         <!-- SWAG CMS Extension -->
         <read>swag_cms_extensions_form</read>
