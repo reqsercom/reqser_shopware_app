@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.4</version>
+        <version>1.2.5</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -519,6 +519,12 @@
         <read>moorl_magazine_category_translation</read>
         <create>moorl_magazine_category_translation</create>
         <update>moorl_magazine_category_translation</update>
+        <read>h1webblog_blog</read>
+        <create>h1webblog_blog</create>
+        <update>h1webblog_blog</update>
+        <read>h1webblog_blog_translation</read>
+        <create>h1webblog_blog_translation</create>
+        <update>h1webblog_blog_translation</update>  
         
     </permissions>
     <webhooks>
