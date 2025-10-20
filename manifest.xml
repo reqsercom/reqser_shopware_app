@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.7</version>
+        <version>1.2.8</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -38,8 +38,6 @@
         <read>sales_channel_language</read>
         <create>sales_channel_language</create>
         <read>seo_url</read>
-        <create>seo_url</create>
-        <update>seo_url</update>
 
         <!-- Necessary to send notifications -->
         <create>notification</create>
@@ -320,8 +318,6 @@
         <read>unit_translation</read>
         <create>unit_translation</create>
         <update>unit_translation</update>
-        <!-- Since version 6.4.12.0 your app can request additional non-CRUD privileges-->
-        <permission>system:cache:info</permission>
 
         <!-- Optional to also Translate Reviews -->
         <read>product_review</read>
