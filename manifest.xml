@@ -38,8 +38,6 @@
         <read>sales_channel_language</read>
         <create>sales_channel_language</create>
         <read>seo_url</read>
-        <create>seo_url</create>
-        <update>seo_url</update>
 
         <!-- Necessary to send notifications -->
         <create>notification</create>

@@ -1,1 +1,0 @@
-# reqser_shopware_plugin
