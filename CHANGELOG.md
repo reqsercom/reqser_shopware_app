@@ -1,6 +1,17 @@
 # Changelog
 
-## [1.2.8] - Current Version
+## [1.2.9] - Current Version
+
+### Features
+- Added translation support for team members and departments
+
+### New Permissions
+- Team member management and translations
+- Team department management and translations
+
+---
+
+## [1.2.8] - Previous Version
 
 ### Features
 - AI-powered translation service for Shopware content
