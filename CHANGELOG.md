@@ -2,9 +2,9 @@
 
 ## [1.2.9] - Current Version
 
-### Permissions
-- ww team member and translations
-- ww team department and translations
+### New Permissions
+- third-party plugin: ww team member and translations
+- third-party plugin: ww team department and translations
 
 ---
 
