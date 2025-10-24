@@ -2,12 +2,9 @@
 
 ## [1.2.9] - Current Version
 
-### Features
-- Added translation support for team members and departments
-
-### New Permissions
-- Team member management and translations
-- Team department management and translations
+### Permissions
+- ww team member and translations
+- ww team department and translations
 
 ---
 
