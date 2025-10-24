@@ -1,6 +1,14 @@
 # Changelog
 
-## [1.2.8] - Current Version
+## [1.2.9] - Current Version
+
+### Permissions
+- ww team member and translations
+- ww team department and translations
+
+---
+
+## [1.2.8] - Previous Version
 
 ### Features
 - AI-powered translation service for Shopware content
