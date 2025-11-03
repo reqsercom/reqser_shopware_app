@@ -1,6 +1,14 @@
 # Changelog
 
-## [1.2.9] - Current Version
+## [1.2.11] - Current Version
+
+### New Permissions
+- third-party plugin: lenz order line item comment field and translations
+- third-party plugin: lenz order line item comment group and translations
+
+---
+
+## [1.2.9] - Previous Version
 
 ### New Permissions
 - third-party plugin: ww team member and translations
