@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.11</version>
+        <version>1.2.12</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -33,6 +33,7 @@
         <update>snippet</update>
         <read>snippet_set</read>
         <update>snippet_set</update>
+        <create>snippet_set</create>
         <read>sales_channel_currency</read>
         <create>sales_channel_currency</create>
         <read>sales_channel_language</read>
