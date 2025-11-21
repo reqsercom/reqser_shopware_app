@@ -4,6 +4,7 @@
 
 ### New Permissions
 - add snippet_set create permission to support non core languages like chinese or arabic
+- add swag customize permission
 
 ---
 
