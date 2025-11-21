@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.11</version>
+        <version>1.2.12</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -33,6 +33,7 @@
         <update>snippet</update>
         <read>snippet_set</read>
         <update>snippet_set</update>
+        <create>snippet_set</create>
         <read>sales_channel_currency</read>
         <create>sales_channel_currency</create>
         <read>sales_channel_language</read>
@@ -345,6 +346,26 @@
         <update>swag_cms_extensions_form_group_field_translation</update>
         <read>swag_language_pack_language</read>
         <update>swag_language_pack_language</update>
+
+        <!-- SWAG Customize Extension -->
+        <read>swag_customized_products_template</read>
+        <create>swag_customized_products_template</create>
+        <update>swag_customized_products_template</update>
+        <read>swag_customized_products_template_translation</read>
+        <create>swag_customized_products_template_translation</create>
+        <update>swag_customized_products_template_translation</update>
+        <read>swag_customized_products_template_option</read>
+        <create>swag_customized_products_template_option</create>
+        <update>swag_customized_products_template_option</update>
+        <read>swag_customized_products_template_option_translation</read>
+        <create>swag_customized_products_template_option_translation</create>
+        <update>swag_customized_products_template_option_translation</update>
+        <read>swag_customized_products_template_option_value</read>
+        <create>swag_customized_products_template_option_value</create>
+        <update>swag_customized_products_template_option_value</update>
+        <read>swag_customized_products_template_option_value_translation</read>
+        <create>swag_customized_products_template_option_value_translation</create>
+        <update>swag_customized_products_template_option_value_translation</update>
 
         <!-- Non Shopware modules with translation table. If the table does not exist, the permission has no effect. -->
         <read>mega_listing_disturber</read>

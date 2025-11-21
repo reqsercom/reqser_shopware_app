@@ -1,6 +1,14 @@
 # Changelog
 
-## [1.2.11] - Current Version
+## [1.2.12] - Current Version
+
+### New Permissions
+- add snippet_set create permission to support non core languages like chinese or arabic
+- add swag customize permission
+
+---
+
+## [1.2.11] - Previous Version
 
 ### New Permissions
 - third-party plugin: lenz order line item comment field and translations
