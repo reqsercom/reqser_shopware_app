@@ -3,7 +3,7 @@
 ## [1.2.13] - Current Version
 
 ### New Permissions
-- add language pack create permission to support non core languages like chinese or arabic 
+- add language pack create and language permission to support creating new languages not available in core or swas language pack, like chinese or arabic
 
 ---
 

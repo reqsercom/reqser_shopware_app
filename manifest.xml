@@ -28,6 +28,7 @@
         <create>sales_channel_domain</create>
         <read>language</read>
         <create>language</create>
+        <update>language</update>
         <read>snippet</read>
         <create>snippet</create>
         <update>snippet</update>
