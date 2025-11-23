@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.12</version>
+        <version>1.2.13</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -345,6 +345,7 @@
         <create>swag_cms_extensions_form_group_field_translation</create>
         <update>swag_cms_extensions_form_group_field_translation</update>
         <read>swag_language_pack_language</read>
+        <create>swag_language_pack_language</create>
         <update>swag_language_pack_language</update>
 
         <!-- SWAG Customize Extension -->

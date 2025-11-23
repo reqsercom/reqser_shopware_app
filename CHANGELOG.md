@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.13] - Current Version
+
+### New Permissions
+- add language pack create permission to support non core languages like chinese or arabic 
+
+---
+
 ## [1.2.12] - Current Version
 
 ### New Permissions
