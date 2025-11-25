@@ -1,13 +1,22 @@
 # Changelog
 
-## [1.2.13] - Current Version
+## [1.2.14] - Current Version
+
+### New Permissions
+- third-party plugin: sas blog author and translations
+- third-party plugin: sas blog category and translations
+- third-party plugin: sas blog entries and translations
+
+---
+
+## [1.2.13] - Previous Version
 
 ### New Permissions
 - add language pack create and language permission to support creating new languages not available in core or swas language pack, like chinese or arabic
 
 ---
 
-## [1.2.12] - Current Version
+## [1.2.12] - Previous Version
 
 ### New Permissions
 - add snippet_set create permission to support non core languages like chinese or arabic

@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.13</version>
+        <version>1.2.14</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -574,6 +574,24 @@
         <read>lenz_order_line_item_comment_group_translation</read>
         <create>lenz_order_line_item_comment_group_translation</create>
         <update>lenz_order_line_item_comment_group_translation</update>
+        <read>sas_blog_author</read>
+        <create>sas_blog_author</create>
+        <update>sas_blog_author</update>
+        <read>sas_blog_author_translation</read>
+        <create>sas_blog_author_translation</create>
+        <update>sas_blog_author_translation</update>
+        <read>sas_blog_category</read>
+        <create>sas_blog_category</create>
+        <update>sas_blog_category</update>
+        <read>sas_blog_category_translation</read>
+        <create>sas_blog_category_translation</create>
+        <update>sas_blog_category_translation</update>
+        <read>sas_blog_entries</read>
+        <create>sas_blog_entries</create>
+        <update>sas_blog_entries</update>
+        <read>sas_blog_entries_translation</read>
+        <create>sas_blog_entries_translation</create>
+        <update>sas_blog_entries_translation</update>
         
     </permissions>
     <webhooks>
