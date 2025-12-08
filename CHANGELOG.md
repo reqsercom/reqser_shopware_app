@@ -1,6 +1,15 @@
 # Changelog
 
-## [1.2.14] - Current Version
+## [1.2.15] - Current Version
+
+### New Permissions
+- read access to custom_field
+- read access to custom_field_set
+- read access to custom_field_set_relation
+
+---
+
+## [1.2.14] - Previous Version
 
 ### New Permissions
 - third-party plugin: sas blog author and translations

@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.14</version>
+        <version>1.2.15</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -51,6 +51,11 @@
 
         <!-- Necessary to show the product images -->
         <read>product_media</read>
+
+        <!-- Necessary to identify the custom fields -->
+        <read>custom_field</read>
+        <read>custom_field_set</read>
+        <read>custom_field_set_relation</read>
         
         <!-- All Tables with _translations and their parent tables are necessary to translate into a new language -->
         <read>app_action_button</read>
