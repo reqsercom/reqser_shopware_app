@@ -3,9 +3,7 @@
 ## [1.2.15] - Current Version
 
 ### New Permissions
-- read access to custom_field
-- read access to custom_field_set
-- read access to custom_field_set_relation
+- read access to custom fields configuration tables to predefine translation fields
 
 ---
 
