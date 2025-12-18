@@ -10,7 +10,7 @@
         <description lang="de-CH">Verbindungs App zu Reqser.com</description>
         <author>Reqser.com AG</author>
         <copyright>(c) by Reqser.com AG</copyright>
-        <version>1.2.15</version>
+        <version>1.2.16</version>
         <icon>icon.png</icon>
         <license>proprietary</license>
     </meta>
@@ -597,6 +597,12 @@
         <read>sas_blog_entries_translation</read>
         <create>sas_blog_entries_translation</create>
         <update>sas_blog_entries_translation</update>
+        <read>repertus_seo_filter_landingpage</read>
+        <create>repertus_seo_filter_landingpage</create>
+        <update>repertus_seo_filter_landingpage</update>
+        <read>repertus_seo_filter_landingpage_translation</read>
+        <create>repertus_seo_filter_landingpage_translation</create>
+        <update>repertus_seo_filter_landingpage_translation</update>
         
     </permissions>
     <webhooks>
