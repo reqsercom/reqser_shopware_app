@@ -3,6 +3,11 @@
 ## [1.2.15] - Current Version
 
 ### New Permissions
+- third-party plugin: repertus seo filter landingpag and translation
+
+## [1.2.15] - Previous Version
+
+### New Permissions
 - read access to custom fields configuration tables to predefine translation fields
 
 ---
